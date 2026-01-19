@@ -1,6 +1,6 @@
 layout: page
 title: "GAMESAVE SDK"
-permalink: https://night-owl-dev-team.github.io/nightowl.githhub.io/gamesavesdk
+permalink: /gamesavesdk/
 
 # GameSave SDK for Android
 
