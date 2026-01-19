@@ -1,4 +1,3 @@
-yaml
 ---
 layout: page
 title: "GAMESAVE SDK"
